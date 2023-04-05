@@ -1,5 +1,5 @@
 # Yazilim-Tasarim-Desenleri
-BTK Akademide Kaya Oğuz Hocamızın vermiş olduğu yazılım tasarım desenleri dersine ait yazmış olduğumuz kodlar
+Yazılım Tasarım Desenleri öğrenirken  yazmış olduğum desenler ve kodları burada bulabilirsiniz.
 Burada öğrenmiş olduğum yazılım tasarım desenlerini paylaşmaya devam edeceğim.
 Şimdilik burada;
 - Iterator Deseni
