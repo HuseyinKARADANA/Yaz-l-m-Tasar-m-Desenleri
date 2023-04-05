@@ -4,4 +4,5 @@ Burada öğrenmiş olduğum yazılım tasarım desenlerini paylaşmaya devam ede
 Şimdilik burada;
 - Iterator Deseni
 - Composite Deseni 
-mevcut. İlerleyen günlerde daha fazlasını yüklemeye çalışacağım.
+mevcut.
+İlerleyen günlerde daha fazlasını yüklemeye çalışacağım.
